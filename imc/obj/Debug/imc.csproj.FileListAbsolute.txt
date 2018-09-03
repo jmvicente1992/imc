@@ -1,0 +1,13 @@
+C:\TESTES C#\imc\imc\bin\Debug\imc.exe.config
+C:\TESTES C#\imc\imc\bin\Debug\imc.exe
+C:\TESTES C#\imc\imc\bin\Debug\imc.pdb
+C:\TESTES C#\imc\imc\obj\Debug\imc.csprojAssemblyReference.cache
+C:\TESTES C#\imc\imc\obj\Debug\imc.Form1.resources
+C:\TESTES C#\imc\imc\obj\Debug\imc.Properties.Resources.resources
+C:\TESTES C#\imc\imc\obj\Debug\imc.csproj.GenerateResource.cache
+C:\TESTES C#\imc\imc\obj\Debug\imc.csproj.CoreCompileInputs.cache
+C:\TESTES C#\imc\imc\obj\Debug\imc.exe
+C:\TESTES C#\imc\imc\obj\Debug\imc.pdb
+C:\TESTES C#\imc\imc\bin\Debug\MySql.Data.dll
+C:\TESTES C#\imc\imc\bin\Debug\MySql.Data.xml
+C:\TESTES C#\imc\imc\obj\Debug\imc.csproj.CopyComplete
